@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "176564618326",
+    "firebase_url": "https://shopapp-dcca6-default-rtdb.firebaseio.com",
+    "project_id": "shopapp-dcca6",
+    "storage_bucket": "shopapp-dcca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176564618326:android:3b24d93e162d909b0ca7f7",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkLT9KCYTxOd7ZI1JGpNub4ORt_9LdAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176564618326:android:f635e4c34d8d80590ca7f7",
+        "android_client_info": {
+          "package_name": "com.codingstuff.photozz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkLT9KCYTxOd7ZI1JGpNub4ORt_9LdAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176564618326:android:a7171f138f19c9340ca7f7",
+        "android_client_info": {
+          "package_name": "com.codingstuff.photozzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkLT9KCYTxOd7ZI1JGpNub4ORt_9LdAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176564618326:android:7f3caa1a2a7483530ca7f7",
+        "android_client_info": {
+          "package_name": "com.codingstuff.quantumtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176564618326-6kqkiaail6f3lhdgmn3mscnr4kiqhis3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingstuff.quantumtask",
+            "certificate_hash": "ed8aa85bfe44da15c2b2297c918dd5cfcad6a179"
+          }
+        },
+        {
+          "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkLT9KCYTxOd7ZI1JGpNub4ORt_9LdAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176564618326:android:031105b4fee84c5c0ca7f7",
+        "android_client_info": {
+          "package_name": "com.codingstuff.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkLT9KCYTxOd7ZI1JGpNub4ORt_9LdAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176564618326-0nm5selkacaa07hfpksodck8ejs6pnpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
